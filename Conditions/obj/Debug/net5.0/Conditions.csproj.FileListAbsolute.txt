@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions.deps.json
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions.dll
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/ref/Conditions.dll
+/home/dcode/Documents/Programs/C#/Conditions/bin/Debug/net5.0/Conditions.pdb
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.dll
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/ref/Conditions.dll
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.pdb
+/home/dcode/Documents/Programs/C#/Conditions/obj/Debug/net5.0/Conditions.genruntimeconfig.cache

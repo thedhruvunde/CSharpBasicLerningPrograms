@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions.deps.json
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions.dll
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/ref/Functions.dll
+/home/dcode/Documents/Programs/C#/Functions/bin/Debug/net5.0/Functions.pdb
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.dll
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/ref/Functions.dll
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.pdb
+/home/dcode/Documents/Programs/C#/Functions/obj/Debug/net5.0/Functions.genruntimeconfig.cache

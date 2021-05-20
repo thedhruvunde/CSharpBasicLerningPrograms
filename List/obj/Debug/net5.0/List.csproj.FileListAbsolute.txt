@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List.deps.json
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List.dll
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/ref/List.dll
+/home/dcode/Documents/Programs/C#/List/bin/Debug/net5.0/List.pdb
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.dll
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/ref/List.dll
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.pdb
+/home/dcode/Documents/Programs/C#/List/obj/Debug/net5.0/List.genruntimeconfig.cache

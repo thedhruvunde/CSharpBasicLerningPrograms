@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array.deps.json
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array.dll
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/ref/Array.dll
+/home/dcode/Documents/Programs/C#/Array/bin/Debug/net5.0/Array.pdb
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.dll
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/ref/Array.dll
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.pdb
+/home/dcode/Documents/Programs/C#/Array/obj/Debug/net5.0/Array.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World.deps.json
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World.dll
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/ref/Hello World.dll
+/home/dcode/Documents/Programs/C#/Hello World/bin/Debug/net5.0/Hello World.pdb
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.dll
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/ref/Hello World.dll
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.pdb
+/home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.genruntimeconfig.cache

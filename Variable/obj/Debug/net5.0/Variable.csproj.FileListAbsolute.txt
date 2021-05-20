@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable.deps.json
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable.dll
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/ref/Variable.dll
+/home/dcode/Documents/Programs/C#/Variable/bin/Debug/net5.0/Variable.pdb
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.dll
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/ref/Variable.dll
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.pdb
+/home/dcode/Documents/Programs/C#/Variable/obj/Debug/net5.0/Variable.genruntimeconfig.cache

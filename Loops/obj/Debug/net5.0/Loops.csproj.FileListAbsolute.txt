@@ -1,0 +1,16 @@
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops.deps.json
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops.dll
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/ref/Loops.dll
+/home/dcode/Documents/Programs/C#/Loops/bin/Debug/net5.0/Loops.pdb
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.csprojAssemblyReference.cache
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.dll
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/ref/Loops.dll
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.pdb
+/home/dcode/Documents/Programs/C#/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache
