@@ -1,2 +1,2 @@
-# CSahrpBasicLerningPrograms
+# CSharpBasicLerningPrograms
 C# programs for beginners
