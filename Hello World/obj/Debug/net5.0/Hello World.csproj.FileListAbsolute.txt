@@ -14,3 +14,4 @@
 /home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/ref/Hello World.dll
 /home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.pdb
 /home/dcode/Documents/Programs/C#/Hello World/obj/Debug/net5.0/Hello World.genruntimeconfig.cache
+D:\Dhruv\Projects\CSharpBasicLerningPrograms\Hello World\obj\Debug\net5.0\Hello World.pdb

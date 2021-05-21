@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dcode/Documents/Programs/C#/Hello World/Hello World.csproj": {}
+    "D:\\Dhruv\\Projects\\CSharpBasicLerningPrograms\\Hello World\\Hello World.csproj": {}
   },
   "projects": {
-    "/home/dcode/Documents/Programs/C#/Hello World/Hello World.csproj": {
+    "D:\\Dhruv\\Projects\\CSharpBasicLerningPrograms\\Hello World\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dcode/Documents/Programs/C#/Hello World/Hello World.csproj",
+        "projectUniqueName": "D:\\Dhruv\\Projects\\CSharpBasicLerningPrograms\\Hello World\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "/home/dcode/Documents/Programs/C#/Hello World/Hello World.csproj",
-        "packagesPath": "/home/dcode/.nuget/packages/",
-        "outputPath": "/home/dcode/Documents/Programs/C#/Hello World/obj/",
+        "projectPath": "D:\\Dhruv\\Projects\\CSharpBasicLerningPrograms\\Hello World\\Hello World.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Dhruv\\Projects\\CSharpBasicLerningPrograms\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dcode/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net5.0": {
-            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,23 +35,12 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
